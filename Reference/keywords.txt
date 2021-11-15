@@ -1,0 +1,30 @@
+Keyword Reference:
+    Advance- If you start the game with this in your hand you may choose to start the game with it on the field.
+
+    Buff x y- Pay x Energy to increase this Unit's Power by y
+
+    Capture- A Unit with this ability can use this instead of attacking to disable the abilities and attacks of an enemy Unit.
+
+    Cycle- Pay a cost to Discard this card from your hand and Draw a card
+
+    Deadly- If this Unit attacks another the defending Unit is destroyed.
+
+    Eternal- This Unit cannot be removed from play while it has this ability.
+
+    Evasive- This Unit may not be the target of any effect.
+
+    Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Unit gain x Power while it remains in play.
+
+    Pilfer x- When this Unit attacks a player unblocked reveal the top x card(s) of their deck, you may play them this turn.
+
+    Progress x- Effect triggers when there are x Progress Counters on this Permanent.
+
+    Recurring- When this card would enter the grave instead put it on the bottom of your deck.
+
+    Ritual [Aspect/Tribe]- You can use energy from this Unit to pay the cost for a card that has the specified Aspect or Tribe.
+
+    Stealth- This Unit cannot be blocked
+
+    Tribute x- As an additional cost to play this card sacrifice 2 Units
+
+    Unity x- This Unit gains x power for each Unit that shares a tribe with it
