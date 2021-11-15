@@ -1,5 +1,5 @@
 Keyword Reference:
-    Advance- If you start the game with this in your hand you may choose to start the game with it on the field.
+    Advance- If you start the game with this card in your hand you may choose to start the game with it in Play.
 
     Buff x y- Pay x Energy to increase this Unit's Power by y
 
@@ -9,9 +9,9 @@ Keyword Reference:
 
     Deadly- If this Unit attacks another the defending Unit is destroyed.
 
-    Eternal- This Unit cannot be removed from play while it has this ability.
+    Eternal- This Permanent cannot be removed from play while it has this ability.
 
-    Evasive- This Unit may not be the target of any effect.
+    Evasive- This Permanent may not be the target of any effect.
 
     Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Unit gain x Power while it remains in play.
 
