@@ -11,7 +11,7 @@ Keyword Reference:
 
     Eternal- This Permanent cannot be removed from play while it has this ability.
 
-    Evasive- This Permanent may not be the target of any effect.
+    Disrupt- If this Permanent would be targeted by an ability or effect, that ability/effect is negated.
 
     Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Unit gain x Power while it remains in play.
 
