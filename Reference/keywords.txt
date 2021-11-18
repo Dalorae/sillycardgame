@@ -1,30 +1,99 @@
 Keyword Reference:
     Advance- If you start the game with this card in your hand you may choose to start the game with it in Play.
+        Usage Guidelines:
+            Don't put it on anything too strong
 
     Buff x y- Pay x Energy to increase this Unit's Power by y
+        Usage Guidelines:
+            Unsure of where this stands in power rankings at this time
 
-    Capture- A Unit with this ability can use this instead of attacking to disable the abilities and attacks of an enemy Unit.
+    Capture x- Pay x Energy, Turn this Unit, Turn target Unit
+        Usage Guidelines:
+            +3 Energy Cost for 2 or less Power Unit
+            +2 Energy Cost for 3 or more
+            0 Energy Cost Change for 7+ Power Units(Kind of pointless though, who would use a big hitting unit to temporarily disable another unit)
 
     Cycle- Pay a cost to Discard this card from your hand and Draw a card
+        Usage Guidelines:
+            Common +1 Energy Cost
+            Uncommon and above 0 Energy Cost Change
 
     Deadly- If this Unit attacks another the defending Unit is destroyed.
+        Usage Guidelines:
+            +2 Energy Cost for 2 or less Power Unit
+            +1 Energy Cost for 3 or more
+            0 Energy Cost Change for 7+ Power Units(Kind of pointless though, most things blow up to this much damage)
 
-    Eternal- This Permanent cannot be removed from play while it has this ability.
+    Defensive- This unit cannot attack.
+        Usage Guidelines:
+            Double Power per Energy is an appropriate adjustment for Units with this ability
 
     Disrupt- If this Permanent would be targeted by an ability or effect, that ability/effect is negated.
+        Usage Guidelines:
+            Very powerful ability, should be costed inverse to how Deadly scales
+
+    Energize x- When a Card that shares a Aspect with this Card is played this Permanent gains x Energy.
+        Usage Guidelines:
+            A 1-1 Ratio of Energy Cost and x should be ok with this one, this is weaker than Generate
+
+    Eternal- This Permanent cannot be removed from play while it has this ability.
+        Usage Guidelines:
+            This is something to put on OP Super Rares only, this should NOT be common
+
+    Generate x- This Permanent produces x Energy on your turn.
+        Usage Guidelines:
+            Should be at least a 2-1 Ratio between the Energy Cost and x. Potentially More if on a Unit
+
+    Level Up x- Once per turn you may pay x Energy to add a level counter to this unit. Effects of leveling are described on each card.
+        Usage Guidelines:
+            Level Up itself doesn't really have any effect on the cost of the unit. You balance the leveling benefits with the cost of x
+
+    Modular [Tribe]- You may discard a card to place a [Tribe] Unit Card under this Unit. This Unit gains the Tribes, Aspects, and Abilities of that card in addition to its own.
+        Usage Guidelines:
+            At this point in time should really only be used on Roboko Cores
+            Units with this shouldn't have large Energy Mods and should likely have an Energy Cost of 3 or less since most of their power comes from adding more cards to them
 
     Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Unit gain x Power while it remains in play.
+        Usage Guidelines:
+            Morale can be extremely powerful, recommended not to place it on units under 3 cost.
 
-    Pilfer x- When this Unit attacks a player unblocked reveal the top x card(s) of their deck, you may play them this turn.
+    Piercing- If this unit is defended against any damage exceeding the Opposing Unit's Energy is dealt to the Opponent's Shield.
+        Usage Guidelines:
+            This Ability costs more the higher the base power of the unit is
+
+    Pilfer x- When this Unit attacks a player undefended reveal the top x card(s) of their deck, you may play them this turn.
+        Usage Guidelines:
+            Valuable on cheap units, less valuable on big units.
 
     Progress x- Effect triggers when there are x Progress Counters on this Permanent.
+        Usage Guidelines:
+            This Ability is really just a trigger for certain Features that require investment.
 
     Recurring- When this card would enter the grave instead put it on the bottom of your deck.
+        Usage Guidelines:
+            Not really that powerful, you can likely throw this on a lot of things without needing to mess with costs too much.
 
     Ritual [Aspect/Tribe]- You can use energy from this Unit to pay the cost for a card that has the specified Aspect or Tribe.
+        Usage Guidelines:
+            None at this point, hasn't been brain tested or field tested
+
+    Shielded x- If an ability or effect would target this Permanent its controller must pay x or it is negated.
+        Usage Guidelines:
+            Not too strong an ability, maybe just shave some off the Energy Mod if this is the only ability it has.
 
     Stealth- This Unit cannot be blocked
+        Usage Guidelines:
+            This Ability costs more the higher the base power of the unit is
 
-    Tribute x- As an additional cost to play this card sacrifice 2 Units
+    Tribute x- As an additional cost to play this card sacrifice x Units
+        Usage Guidelines:
+            Dark or Primal would be the most likely Aspects to utilize this, this frees up some design space for stronger effects like Ordinance Win Conditions
 
-    Unity x- This Unit gains x power for each Unit that shares a tribe with it
+    Undying- You may return this Unit to play from the grave by discarding a card.
+        Usage Guidelines:
+            Extremely Powerful Ability, Should only be on low Power Units UNLESS Tribute is on the Unit as well
+
+    [Tribe] Unity x- This Unit gains x power for each Unit that shares a specific tribe with it
+        Usage Guidelines:
+            The value of this depends on the Tribe and the base Power and Energy cost of the Unit
+            Putting Unity 1 on a Unit that's already a big boy that costs a lot probably isn't too big a deal but putting it on a 1 coster can be broken as fuck
