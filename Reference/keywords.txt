@@ -44,6 +44,10 @@ Keyword Reference:
         Usage Guidelines:
             Should be at least a 2-1 Ratio between the Energy Cost and x. Potentially More if on a Unit
 
+    Ingress- This permanent triggers an effect upon entering play
+        Usage Guidelines:
+            Too many potentials to provide a good cost adjustment estimate
+
     Level Up x- Once per turn you may pay x Energy to add a level counter to this unit. Effects of leveling are described on each card.
         Usage Guidelines:
             Level Up itself doesn't really have any effect on the cost of the unit. You balance the leveling benefits with the cost of x
@@ -89,6 +93,10 @@ Keyword Reference:
         Usage Guidelines:
             Dark or Primal would be the most likely Aspects to utilize this, this frees up some design space for stronger effects like Ordinance Win Conditions
 
+    Uncapped- There is no limit on the number of copies of this card a deck can contain.
+        Usage Guidelines:
+            Memes
+
     Undying- You may return this Unit to play from the grave by discarding a card.
         Usage Guidelines:
             Extremely Powerful Ability, Should only be on low Power Units UNLESS Tribute is on the Unit as well
@@ -96,4 +104,4 @@ Keyword Reference:
     [Tribe] Unity x- This Unit gains x power for each Unit that shares a specific tribe with it
         Usage Guidelines:
             The value of this depends on the Tribe and the base Power and Energy cost of the Unit
-            Putting Unity 1 on a Unit that's already a big boy that costs a lot probably isn't too big a deal but putting it on a 1 coster can be broken as fuck
+            Putting Unity 1 on a Unit that's already a big boy that costs a lot probably isn't too big a deal but putting it on a 1 coster can be very strong
