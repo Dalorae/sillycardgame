@@ -1,0 +1,86 @@
+[TACTIC]
+    [ARTIFICE]
+
+
+    [DARK]
+        Death's Rewards
+            Rarity: Rare
+            Aspects: Dark
+            Tribes: None
+            Energy Cost: 2
+            Effect:
+                Draw a Card for each Unit that was Destroyed this turn
+
+        Eliminate
+            Rarity: Rare
+            Aspects: Dark
+            Tribes: None
+            Energy Cost: 1
+            Effect:
+                Tribute 1
+                Destroy Target Unit
+
+        Oust
+            Rarity: Uncommon
+            Aspects: Dark
+            Tribes: None
+            Energy Cost: 4
+            Effect:
+                Banish Target Unit
+
+    [ELEMENT]
+        Blizzard
+            Rarity: Rare
+            Aspects: Element(Ice)
+            Tribes: None
+            Energy Cost: 3
+            Effect:
+                Deal 1 Damage and apply a Chill Counter to all Units that are not Element(Ice)
+
+        Elemental Bolt
+            Rarity: Common
+            Aspects: Element(Any)
+            Tribes: None
+            Energy Cost: 1
+            Effect:
+                Element(Earth) - Deal 1 Damage to Target Unit, its Controller Banishes Target Card from their Grave
+                Element(Fire) - Deal 1 Damage to Target Unit, Place a Scorch Counter on it
+                Element(Ice) - Deal 1 Damage to Target Unit, Place a Chill Counter on it
+                Element(Lightning) - Deal 1 Damage to Target Unit and to adjacent Units
+                Element(Water) - Deal 1 Damage to Target Unit, Exhaust that Unit
+                Element(Wind) - Deal 1 Damage to Target Unit, its Controller places the Top Card of their Deck into their Grave
+
+        Elemental Pulse
+            Rarity: Rare
+            Aspects: Element(All)
+            Tribes: Elemental
+            Energy Cost: 2
+            Effect:
+                Remove 1 Energy from each Elemental Tribe Unit you Control
+                Deal Damage to all units you don't control equal to the removed Energy
+
+    [JUSTICE]
+        Detain
+            Rarity: Common
+            Aspects: Justice
+            Tribes: None
+            Energy Cost: 0
+            Effect:
+                Exhaust Target Unit
+
+
+    [PRIMAL]
+        Brawl
+            Rarity: Uncommon
+            Aspects: Primal
+            Tribes: None
+            Energy Cost: 1
+            Effect:
+                Target Two Units, They Fight
+
+        Bulk
+            Rarity: Common
+            Tribes: None
+            Energy Cost: 1
+            Effect:
+                Place a Power Counter on Target Unit
