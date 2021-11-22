@@ -54,7 +54,7 @@
             Energy Mod: 0
             Power: 1
             Abilities:
-                [SOUL CARD]: Turn this unit, This Unit deals its power as damage to target Unit.
+                [SOUL CARD]: Exhaust this unit, This Unit deals its power as damage to target Unit.
                 Deadly
 
         Roboko Guardian Hanoko
@@ -126,7 +126,7 @@
             Power: 1
             Abilities:
                 [SOUL CARD] Undying
-                Ingress- Turn Target Unit, it remains turned on its Controller's next turn
+                Ingress- Exhaust Target Unit, it remains exhausted on its Controller's next turn
 
     [JUSTICE]
 
