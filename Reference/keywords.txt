@@ -7,7 +7,7 @@ Keyword Reference:
         Usage Guidelines:
             Unsure of where this stands in power rankings at this time
 
-    Capture x- Pay x Energy, Turn this Unit, Turn target Unit
+    Capture x- Pay x Energy, Exhaust this Unit, Exhaust Target Unit until the Capturing Unit is no longer Exhausted or in Play
         Usage Guidelines:
             +3 Energy Cost for 2 or less Power Unit
             +2 Energy Cost for 3 or more
@@ -57,7 +57,7 @@ Keyword Reference:
             At this point in time should really only be used on Roboko Cores
             Units with this shouldn't have large Energy Mods and should likely have an Energy Cost of 3 or less since most of their power comes from adding more cards to them
 
-    Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Unit gain x Power while it remains in play.
+    Morale x [Aspect/Tribe]- Units that share the specified Aspect or Tribe with this Permanent gain x Power while it remains in play.
         Usage Guidelines:
             Morale can be extremely powerful, recommended not to place it on units under 3 cost.
 
