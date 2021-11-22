@@ -1,0 +1,80 @@
+[FEATURE]
+    [Artifice]
+        Power Plant
+            Rarity: Uncommon
+            Aspects: Artifice
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                [Artifice] Units have no Energy Upkeep
+
+        Recycling Facility
+            Rarity: Rare
+            Aspects: Artifice
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                Banish a [Artifice] Card from your Grave, Add 1 Energy
+
+    [Dark]
+        Lightless Cavern
+            Rarity: Uncommon
+            Aspects: Dark
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                [Dark] Units have no Energy Upkeep
+
+        Rite of Finality
+            Rarity: Uncommon
+            Aspects: Dark
+            Energy Cost: 2
+            Energy Mod: +1
+            Abilities:
+                Sacrifice a Unit to place a Progress Counter on this Feature
+                [Progress 3] Banish All Units in Play
+
+        Rite of Restless Blood
+            Rarity: Uncommon
+            Aspects: Dark
+            Energy Cost: 2
+            Energy Mod: +1
+            Abilities:
+                Whenever a Unit would be sent to the Grave Banish it instead, Add a Progress Count to this Feature
+                [Progress 5] Return a Unit Banished by this Feature to play under your control
+
+    [Element]
+        Primordial Essence
+            Rarity: Uncommon
+            Aspects: Element(All)
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                [Element] Units have no Energy Upkeep
+
+        Leyline
+            Rarity: Rare
+            Aspects: Element(Any)
+            Energy Cost: 3
+            Energy Mod: I
+            Abilities:
+                Generate 1
+                Morale 1 [Element(Any)]
+
+    [Justice]
+        Hall of Glory
+            Rarity: Uncommon
+            Aspects: Justice
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                [Justice] Units have no Energy Upkeep
+
+    [Primal]
+        Primal Eden
+            Rarity: Uncommon
+            Aspects: Primal
+            Energy Cost: 3
+            Energy Mod: 0
+            Abilities:
+                [Primal] Units have no Energy Upkeep
