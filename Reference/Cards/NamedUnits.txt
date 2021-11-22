@@ -1,0 +1,178 @@
+[UNIT]
+    [ARTIFICE]
+        Roboko Core Emily
+            Rarity: Uncommon
+            Aspects: Artifice
+            Tribes: Robot - Maiden - Core
+            Energy Cost: 1
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                [SOUL CARD]: When this Unit activates Modular if the discarded card had the Artifice Aspect add 3 Energy to this unit, otherwise add 1 Energy.
+                Modular [Robot]
+                When this Unit activates Modular add 1 Energy to this Unit.
+
+        Roboko Core Risa
+            Rarity: Rare
+            Aspects: Artifice
+            Tribes: Robot - Maiden - Core
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 2
+            Abilities:
+                [SOUL CARD]: Piercing
+                Modular [Robot]
+                This Unit gains the power of all Units added to it with Modular.
+
+        Roboko Warrior Stacy
+            Rarity: Uncommon
+            Aspects: Artifice / Justice
+            Tribes: Robot - Maiden - Warrior
+            Energy Cost: 2
+            Energy Mod: +2
+            Power: 2
+            Abilities:
+                [SOUL CARD]: Shielded 2
+                Shielded 1
+
+        Roboko Worker Sonya
+            Rarity: Common
+            Aspects: Artifice
+            Tribes: Robot - Maiden
+            Energy Cost: 2
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                [SOUL CARD]: Generate 2
+                Generate 1
+
+        Roboko Sniper Yumi
+            Rarity: Rare
+            Aspects: Artifice
+            Tribes: Robot - Maiden - Shooter
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                [SOUL CARD]: Turn this unit, This Unit deals its power as damage to target Unit.
+                Deadly
+
+        Roboko Guardian Hanoko
+            Rarity: Rare
+            Aspects: Artifice / Justice
+            Tribes: Robot - Maiden
+            Energy Cost: 2
+            Energy Mod: +6
+            Power: 4
+            Abilities:
+                [SOUL CARD] Disrupt
+                Defensive
+
+
+    [DARK]
+
+    [ELEMENTAL]
+        Katja, Shattering Ice
+            Rarity: Rare
+            Aspects: Element(Ice)
+            Tribes: Elemental - Maiden
+            Energy Cost: 4
+            Energy Mod: +2
+            Power: 2
+            Abilities:
+                [SOUL CARD]: When you play another Element(Ice) Card apply a Chill Counter to all other Units.
+                When you play another Element(Ice) Card apply a Chill Counter to target Unit.
+                When this Unit fights a Unit with a Chill Counter on it, Destroy that Unit before damage is dealt.
+
+        Julieta, Crackling Spear
+            Rarity: Rare
+            Aspects: Element(Lightning)
+            Tribes: Elemental - Maiden
+            Energy Cost: 6
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                [SOUL CARD]: [Elemental] Unity 2
+                Ingress- Deal damage to all Units you don't control equal to this Unit's Power.
+
+        Earthbreaker
+            Rarity: Uncommon
+            Aspects: Element(Earth)
+            Tribes: Elemental
+            Energy Cost: 4
+            Energy Mod: 0
+            Power: 3
+            Abilities:
+                [SOUL CARD]: [Elemental] Unity 1
+                Ingress- Deal 1 damage to all Units.
+
+        Houda, Molten Fury
+            Rarity: Uncommon
+            Aspects: Element(Fire)
+            Tribes: Elemental - Maiden
+            Energy Cost: 2
+            Energy Mod: 0
+            Power: 2
+            Abilities:
+                [SOUL CARD]: If a Unit is destroyed by this Unit's Ingress Ability you may repeat the ability with a new target.
+                Ingress- Deal Damage to Target Unit equal to this Unit's Power
+
+        Ellen, Crushing Tide
+            Rarity: Uncommon
+            Aspects: Element(Water)
+            Tribes: Elemental - Maiden
+            Energy Cost: 1
+            Energy Mod: +2
+            Power: 1
+            Abilities:
+                [SOUL CARD] Undying
+                Ingress- Turn Target Unit, it remains turned on its Controller's next turn
+
+    [JUSTICE]
+
+    [PRIMAL]
+        Darkness, Unseen Hunter
+            Rarity: Rare
+            Aspects: Primal - Dark
+            Tribes: Cat - Beast
+            Energy Cost: 2
+            Energy Mod: +3
+            Power: 2
+            Abilities:
+                [SOUL CARD]: While [Ghost, Silent Hunter] is in Play under your control both Units have Stealth.
+                While [Ghost, Silent Hunter] is in Play under your control this Unit gains 2 Power.
+
+
+        Ghost, Silent Hunter
+            Rarity: Rare
+            Aspects: Primal - Dark
+            Tribes: Cat - Beast
+            Energy Cost: 2
+            Energy Mod: +3
+            Power: 2
+            Abilities:
+                [SOUL CARD]: While [Darkness, Unseen Hunter] is in Play under your control both Units have Disrupt.
+                While [Darkness, Unseen Hunter] is in Play under your control this Unit gains 2 Power.
+
+        Killer Croc Gustave
+            Rarity: Rare
+            Aspects: Primal - Element(Water)
+            Tribes: Crocodile - Beast
+            Energy Cost: 5
+            Energy Mod: 0
+            Power: 3
+            Abilities:
+                [SOUL CARD]: When this Unit destroys another Unit it gains 3 Energy
+                Capture 1
+                When this Unit Captures another Unit, deal its Power to that Unit
+
+        Rampaging Grizzly Two-Toes
+            Rarity: Rare
+            Aspects: Primal - Element(Earth)
+            Tribes: Bear - Beast
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 3
+            Abilities:
+                [SOUL CARD]: When a Tactic is played you may have this Unit deal its Power to any Target Unit
+                Shielded 3
