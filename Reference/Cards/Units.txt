@@ -1,0 +1,183 @@
+[UNIT]
+    [ARTIFICE]
+        Roboko Drone
+            Rarity: Common
+            Aspects: Artifice
+            Tribes: Robot - Maiden
+            Energy Cost: 1
+            Energy Mod: +3
+            Power: 1
+            Abilities:
+                None
+
+        Scrap Bot
+            Rarity: Common
+            Aspects: Artifice
+            Tribes: Robot
+            Energy Cost: 1
+            Energy Mod: 3
+            Power:0
+            Abilities:
+                Ritual [Aspect-Artifice]
+
+    [DARK]
+        Assassin
+            Rarity: Uncommon
+            Aspects: Dark
+            Tribes: Human - Rogue
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                Shielded 1
+                Stealth
+
+        Corpse Mountain
+            Rarity: Rare
+            Aspects: Dark
+            Tribes: Zombie - Undead
+            Energy Cost: 1
+            Energy Mod: 0
+            Power: 6
+            Abilities:
+                As an additional cost to play this card Banish 6 [Undead] Tribe Cards from your Grave
+
+        Highwayman
+            Rarity: Common
+            Aspects: Dark
+            Tribes: Human - Rogue
+            Energy Cost: 2
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                When this Unit attacks, if it is not defended the damaged opponent discards a card and you may draw a card.
+
+        Pickpocket
+            Rarity: Common
+            Aspects: Dark
+            Tribes: Human - Rogue
+            Energy Cost: 1
+            Energy Mod: +1
+            Power: 1
+            Abilities:
+                Pilfer 1
+
+        Rotting Titan
+            Rarity: Uncommon
+            Aspects: Dark
+            Tribes: Zombie - Undead
+            Energy Cost: 3
+            Energy Mod: -2
+            Power: 5
+            Abilities:
+                Banish a Card from your Grave, Add 1 Energy to this Unit
+
+        Thug
+            Rarity: Common
+            Aspects: Dark
+            Tribes: Human - Rogue
+            Energy Cost: 1
+            Energy Mod: +3
+            Power: 1
+            Abilities:
+                None
+
+        Zombie
+            Rarity: Common
+            Aspects: Dark
+            Tribes: Zombie - Undead
+            Energy Cost: 1
+            Energy Mod: 0
+            Power: 1
+            Abilities:
+                Uncapped
+                Undying
+
+        Zombie Knight
+            Rarity: Uncommon
+            Aspects: Dark
+            Tribes: Zombie - Undead - Warrior
+            Energy Cost: 1
+            Energy Mod: 0
+            Power: 3
+            Abilities:
+                Cycle 0
+                Undying
+
+
+    [ELEMENTAL]
+        Natural Spirit
+            Rarity: Common
+            Aspects: Element(Any)
+            Tribes: Spirit - Elemental
+            Energy Cost: 1
+            Energy Mod: 2
+            Power: 1
+            Abilities:
+                Ritual [Aspect-Elemental(Any)]
+                #This Unit's ritual can only be used for matching elements
+
+
+    [JUSTICE]
+        Vigilante
+            Rarity: Common
+            Aspects: Justice
+            Tribes: Human - Hero
+            Energy Cost: 2
+            Energy Mod: +3
+            Power: 2
+            Abilities:
+                None
+
+
+    [PRIMAL]
+        Bear
+            Rarity: Uncommon
+            Aspects: Primal / Element(Earth)
+            Tribes: Bear - Beast
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 4
+            Abilities:
+                None
+
+        Lamb
+            Rarity: Common
+            Aspects: Primal / Element(Earth)
+            Tribes: Sheep - Beast
+            Energy Cost: 0
+            Energy Mod: 2
+            Power: 0
+            Abilities:
+                Ritual [Aspect-Dark]
+                Ritual [Tribe-Beast]
+
+        Shark
+            Rarity: Uncommon
+            Aspects: Primal / Element(Water)
+            Tribes: Shark - Beast
+            Energy Cost: 3
+            Energy Mod: +1
+            Power: 2
+            Abilities:
+                Deadly
+
+        Shadow Wolf
+            Rarity: Uncommon
+            Aspects: Primal / Dark
+            Tribes: Wolf - Beast
+            Energy Cost: 3
+            Energy Mod: 0
+            Power: 3
+            Abilities:
+                Stealth
+
+        Wolf
+            Rarity: Common
+            Aspects: Primal / Element(Earth)
+            Tribes: Wolf - Beast
+            Energy Cost: 2
+            Energy Mod: +4
+            Power: 1
+            Abilities:
+                [Wolf] Unity 1
